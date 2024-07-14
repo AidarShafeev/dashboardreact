@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dashboardreact/static/css/main.22830302.css",
+    "main.js": "/dashboardreact/static/js/main.714b374f.js",
+    "static/media/img1.png": "/dashboardreact/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/img2.png": "/dashboardreact/static/media/img2.f5f922c9b93eaf2c4065.png",
+    "static/media/img3.png": "/dashboardreact/static/media/img3.6b1484548ee065fd59b5.png",
+    "index.html": "/dashboardreact/index.html",
+    "main.22830302.css.map": "/dashboardreact/static/css/main.22830302.css.map",
+    "main.714b374f.js.map": "/dashboardreact/static/js/main.714b374f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22830302.css",
+    "static/js/main.714b374f.js"
+  ]
+}
